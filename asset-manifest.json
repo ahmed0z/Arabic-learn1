@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arabic-learn1/static/css/main.3fe2b47f.css",
+    "main.js": "/Arabic-learn1/static/js/main.ea29d8ab.js",
+    "index.html": "/Arabic-learn1/index.html",
+    "main.3fe2b47f.css.map": "/Arabic-learn1/static/css/main.3fe2b47f.css.map",
+    "main.ea29d8ab.js.map": "/Arabic-learn1/static/js/main.ea29d8ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe2b47f.css",
+    "static/js/main.ea29d8ab.js"
+  ]
+}
